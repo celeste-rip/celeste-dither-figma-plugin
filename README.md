@@ -1,0 +1,1 @@
+# celeste-dither-figma-plugin
